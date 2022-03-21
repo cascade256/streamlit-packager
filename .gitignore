@@ -1,0 +1,5 @@
+build/
+__pycache__/
+dist/
+built_streamlit_script.py
+*.spec
